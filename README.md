@@ -14,7 +14,7 @@ This is a simple implementation of an expression evaluator that can handle basic
 # Example Usage
 
 result = myeval('9+8-3*(12-3)')
-print("Result:", result)
+print("Result:", result) # Result: -10.0
 ```
 
 ## Contact
